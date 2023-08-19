@@ -4,38 +4,42 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Misión',
+    Svg: require('@site/static/img/undraw_business_decisions_re_84ag.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Crear y comercializar servicios y productos de excelente calidad en el área informática, para satisfacer las
+        necesidades de nuestros clientes, ayudando así al mejoramiento de los procesos empresariales, todo esto rodeado
+        de un clima laboral agradable, que fomente el crecimiento personal y profesional tanto de sus clientes internos
+        como externos.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Visión',
+    Svg: require('@site/static/img/undraw_code_review_re_woeb.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Posicionarse en el 2025 como la mejor organización para soluciones en informática a nivel nacional, distinguida
+        por sus productos y servicios en el mercado con proyección internacional.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Nuestra Empresa',
+    Svg: require('@site/static/img/undraw_meet_the_team_re_4h08.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        APLICACIONES INTEGRADAS S.A.S, somos una casa de software con más de 25 años de experiencia en el desarrollo y
+        comercialización de aplicaciones para la gestión administrativa, comercial, contable, productora y de recursos
+        humanos. Contamos con herramientas de última tecnología para brindar a nuestros clientes desarrollos a su
+        medida, según las necesidades que su empresa requiera.{' '}
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">

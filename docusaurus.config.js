@@ -68,7 +68,7 @@ const config = {
             label: 'Documentación',
           },
           {
-            href: 'www.aplinsa.com/',
+            href: 'http://www.aplinsa.com/',
             label: 'Aplinsa - Web Oficial',
             position: 'right',
           },
