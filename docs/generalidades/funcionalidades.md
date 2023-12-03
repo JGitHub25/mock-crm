@@ -18,7 +18,7 @@ Cómo realizar una **cotización**
 El programa está desarrollado con entorno para Windows, se ubica un icono en el escritorio para acceder.
 En pantalla está el icono que representa Aplinsa.
 
-![Alt text](image.png)
+![Ventana de compras](image.png)
 
 - **Empresa**: El programa permite crear varias empresas (Abajo se amplía la descripción de este campo)
 - **Nombre de usuario**: Usuario asignado por el administrador del programa.
@@ -66,6 +66,14 @@ El usuario tiene múltiples opciones para darle su tono de color gráfico y dife
 trabajo que más le guste.
 En esta sección elegimos un tema visual para nuestra aplicación.
 Algunos ejemplos de apariencia.
+
+### Apariencia completa
+
+lalalalalalal
+
+#### Apariencia completa b
+
+klklkllklkl
 
 ## Lista de Ventanas
 
