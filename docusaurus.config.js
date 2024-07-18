@@ -12,7 +12,7 @@ const config = {
 
   // TODO: Deployment config
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://aplinsa-docusaurus.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
